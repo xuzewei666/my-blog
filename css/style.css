@@ -1,0 +1,62 @@
+.navbar-default {
+	background-color:#5BC0DE;
+	border-color: #e7e7e7
+}
+.carousel-inner img {
+width:100%;
+}
+
+.CallUsText .text h4 {
+	text-align: left;
+}
+
+.CallUsText .text h3 {
+	text-align: left;
+}
+
+.CallUsText .text h2 {
+	text-align: left;
+}
+
+.CallUsText .text h4 {
+	margin-top: 50px;
+}
+
+@media screen and (max-width: 600px) {
+	.CallUsText .text h3 {
+		font-size: 20px;
+	}
+	.CallUsText .text h2 {
+		font-size: 20px;
+	}
+	#allmap {
+		height: 300px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.CallUsText .text h3 {
+		font-size: 20px;
+	}
+	.CallUsText .text h2 {
+		font-size: 20px;
+	}
+	#allmap {
+		height: 300px;
+	}
+}
+
+#allmap {
+	width: 90%;
+	height: 400px;
+	margin: auto;
+}
+
+
+
+.htmleaf-container{
+	margin: 0 auto;
+	text-align: center;
+	overflow: hidden;
+	background-color:#FFD5D9;
+}
